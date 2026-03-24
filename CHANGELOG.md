@@ -1,3 +1,10 @@
+# 1.0.0 (2026-03-24)
+
+
+### Features
+
+* initialize image background remover project ([2769b9f](https://github.com/grahamry/image-background-remover/commit/2769b9fcb473f7a649555882c27dad8a28ca30b1))
+
 ## [1.7.7](https://github.com/ixartz/SaaS-Boilerplate/compare/v1.7.6...v1.7.7) (2025-12-12)
 
 
